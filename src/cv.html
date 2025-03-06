@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Susmaryoseph</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        darkbg: "#1a1a2e",
+                        darkcard: "#16213e",
+                        darktext: "#eaeaea"
+                    }
+                }
+            }
+        };
+
+        // Dark mode toggle
+        function toggleDarkMode() {
+            document.documentElement.classList.toggle('dark');
+        }
+
+        // Print CV
+        function printCV() {
+            window.print();
+        }
+
+        // Download CV as PDF
+        async function downloadPDF() {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+
+            const cvElement = document.getElementById('cv-container');
+            const canvas = await html2canvas(cvElement, { scale: 2 });
+            const imgData = canvas.toDataURL('image/png');
+
+            doc.addImage(imgData, 'PNG', 10, 10, 190, 0);
+            doc.save('Joseph_CV.pdf');
+        }
+    </script>
+</head>
+<body class="bg-gray-100 dark:bg-darkbg flex justify-center py-10 transition-all duration-500">
+
+    <div class="w-full max-w-3xl bg-white dark:bg-darkcard shadow-lg rounded-lg p-6 transition-all duration-500 animate-fadeIn" id="cv-container">
+        <!-- Header -->
+        <div class="flex items-center justify-between">
+            <div class="flex items-center space-x-4">
+                <img src="https://via.placeholder.com/100" alt="Profile Photo" class="w-24 h-24 rounded-full border">
+                <div>
+                    <h1 class="text-2xl font-bold text-gray-800 dark:text-darktext">Joseph [Last Name]</h1>
+                    <p class="text-gray-600 dark:text-gray-400">Principal Solution Architect | Enterprise Architect</p>
+                    <p class="text-gray-500 dark:text-gray-400">Manila, Philippines</p>
+                </div>
+            </div>
+            <div>
+                <button onclick="toggleDarkMode()" class="bg-gray-800 dark:bg-gray-300 text-white dark:text-gray-900 px-4 py-2 rounded-lg shadow-md hover:scale-105 transition-all">
+                    🌙 Dark Mode
+                </button>
+                <button onclick="printCV()" class="bg-blue-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
+                    🖨️ Print
+                </button>
+                <button onclick="downloadPDF()" class="bg-green-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
+                    📥 Download PDF
+                </button>
+            </div>
+        </div>
+
+        <hr class="my-4 border-gray-300 dark:border-gray-600">
+
+        <!-- Summary -->
+        <div>
+            <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Summary</h2>
+            <p class="text-gray-600 dark:text-gray-400 mt-2">
+                Experienced Principal Solution Architect with expertise in Adobe Experience Manager, microservices, Azure Cloud, and TOGAF. Passionate about designing scalable, resilient, and developer-friendly architectures.
+            </p>
+        </div>
+
+        <hr class="my-4 border-gray-300 dark:border-gray-600">
+
+        <!-- Experience -->
+        <div>
+            <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Experience</h2>
+            <div class="mt-3 animate-fadeIn">
+                <h3 class="text-lg font-semibold text-gray-700 dark:text-gray-300">Senior Regional Solutions Architect</h3>
+                <p class="text-gray-600 dark:text-gray-400">Manulife | 2023 - Present</p>
+                <ul class="list-disc list-inside text-gray-600 dark:text-gray-400 mt-2">
+                    <li>Designed scalable microservices and API architectures.</li>
+                    <li>Led the implementation of AEM-based public websites.</li>
+                    <li>Enhanced Developer Experience (DevEx) across teams.</li>
+                </ul>
+            </div>
+
+            <div class="mt-3 animate-fadeIn">
+                <h3 class="text-lg font-semibold text-gray-700 dark:text-gray-300">Enterprise Architect</h3>
+                <p class="text-gray-600 dark:text-gray-400">Company Name | 2020 - 2023</p>
+                <ul class="list-disc list-inside text-gray-600 dark:text-gray-400 mt-2">
+                    <li>Defined enterprise architecture roadmaps aligned with TOGAF.</li>
+                    <li>Managed cloud migration strategies using Azure.</li>
+                </ul>
+            </div>
+        </div>
+
+        <hr class="my-4 border-gray-300 dark:border-gray-600">
+
+        <!-- Skills -->
+        <div>
+            <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Skills</h2>
+            <div class="flex flex-wrap gap-2 mt-2">
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Adobe Experience Manager</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Microservices</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Azure Kubernetes Service</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">TOGAF</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Developer Experience</span>
+            </div>
+        </div>
+
+        <hr class="my-4 border-gray-300 dark:border-gray-600">
+
+        <!-- Contact -->
+        <div>
+            <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Contact</h2>
+            <p class="text-gray-600 dark:text-gray-400 mt-2"><strong>Email:</strong> youremail@example.com</p>
+            <p class="text-gray-600 dark:text-gray-400"><strong>Website:</strong> <a href="https://www.susmaryoseph.com" class="text-blue-500 dark:text-blue-400">www.susmaryoseph.com</a></p>
+            <p class="text-gray-600 dark:text-gray-400"><strong>LinkedIn:</strong> <a href="#" class="text-blue-500 dark:text-blue-400">linkedin.com/in/yourprofile</a></p>
+        </div>
+    </div>
+
+</body>
+</html>

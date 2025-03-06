@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./index.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body class="flex bg-slate-500">
+<!--    
+    <header class="w-md text-white" style="background: url('https://fastly.picsum.photos/id/903/500/1000.jpg?hmac=CI4nD2mKJlbqaX74qUde5-S_223Ji2-OWgfkoIqH7MA'); background-size: cover; height: 100vh;">
+-->
+    <header class="md:w-1/5 text-white bg-orange-400 bg-cover md:h-screen sm:h-20">
+        
+        <h1 class="p-8 text-4xl">Hello, world!</h1>
+
+        <nav class="md:fixed md:bottom-0 p-10">
+            <ul class="text-xl">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="p-8">
+
+        <div class="flex gap-5" id="countdown-timer">
+            <div>
+              <span class="countdown font-mono text-4xl">
+                <span style="--value:15;" aria-live="polite" id="days">0</span>
+              </span>
+              days
+            </div>
+            <div>
+              <span class="countdown font-mono text-4xl">
+                <span style="--value:10;" aria-live="polite"id="hours">0</span>
+              </span>
+              hours
+            </div>
+            <div>
+              <span class="countdown font-mono text-4xl">
+                <span style="--value:24;" aria-live="polite" id="minutes">0</span>
+              </span>
+              min
+            </div>
+            <div>
+              <span class="countdown font-mono text-4xl">
+                <span style="--value:59;" aria-live="polite" id="seconds">0</span>
+              </span>
+              sec
+            </div>
+        </div>
+       
+        <!--<button class="p-3 bg-blue-600 rounded-md text-white" type="button">Click me</button>-->
+        <section></section>
+        <section></section>
+        <section></section>
+    </main>
+    <footer class="fixed bottom-0 text-white pl-5">
+        <small>© <script>
+                document.write(new Date().getFullYear())
+            </script> <a class="text-gray-700" href="https://www.susmaryoseph.com">bluestella designs.</a> All Rights
+            Reserved.</small>
+    </footer>
+
+    <script src="./countdown-timer.js"></script>
+</body>
+
+</html>
