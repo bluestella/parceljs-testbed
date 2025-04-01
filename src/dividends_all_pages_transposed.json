@@ -1,0 +1,2502 @@
+[
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2026-02-06",
+        "Record Date": "2026-02-23",
+        "Payment Date": "2026-02-09",
+        "Circular Number": "C00633-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2026-02-06",
+        "Record Date": "2026-02-23",
+        "Payment Date": "2026-02-09",
+        "Circular Number": "C00629-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.025 (US$0.025)",
+        "Ex-Dividend Date": "2025-12-02",
+        "Record Date": "2025-12-18",
+        "Payment Date": "2025-12-03",
+        "Circular Number": "C00352-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.968825",
+        "Ex-Dividend Date": "2025-11-27",
+        "Record Date": "2025-12-15",
+        "Payment Date": "2025-11-28",
+        "Circular Number": "C00360-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 1.7678125",
+        "Ex-Dividend Date": "2025-11-27",
+        "Record Date": "2025-12-15",
+        "Payment Date": "2025-11-28",
+        "Circular Number": "C00355-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.0228125 (US$0.0228125)",
+        "Ex-Dividend Date": "2025-11-21",
+        "Record Date": "2025-12-09",
+        "Payment Date": "2025-11-24",
+        "Circular Number": "C00347-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNP Series A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.75 per share",
+        "Ex-Dividend Date": "2025-11-04",
+        "Record Date": "2025-12-01",
+        "Payment Date": "2025-11-05",
+        "Circular Number": "C00624-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2025-11-04",
+        "Record Date": "2025-11-24",
+        "Payment Date": "2025-11-05",
+        "Circular Number": "C00632-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2025-11-04",
+        "Record Date": "2025-11-24",
+        "Payment Date": "2025-11-05",
+        "Circular Number": "C00628-2025"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "CPGPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP 1.8858 per share",
+        "Ex-Dividend Date": "2025-10-27",
+        "Record Date": "2025-11-24",
+        "Payment Date": "2025-10-28",
+        "Circular Number": "C00373-2025"
+    },
+    {
+        "Company Name": "GT Capital Holdings, Inc.",
+        "Type of Security": "GTPPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php12.73725",
+        "Ex-Dividend Date": "2025-10-03",
+        "Record Date": "2025-10-27",
+        "Payment Date": "2025-10-06",
+        "Circular Number": "C07914-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA2",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.625",
+        "Ex-Dividend Date": "2025-10-01",
+        "Record Date": "2025-10-12",
+        "Payment Date": "2025-10-02",
+        "Circular Number": "C07479-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA1",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php18.9625",
+        "Ex-Dividend Date": "2025-10-01",
+        "Record Date": "2025-10-12",
+        "Payment Date": "2025-10-02",
+        "Circular Number": "C07477-2024"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.9973",
+        "Ex-Dividend Date": "2025-09-19",
+        "Record Date": "2025-10-04",
+        "Payment Date": "2025-09-22",
+        "Circular Number": "C00041-2025"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.1000",
+        "Ex-Dividend Date": "2025-09-19",
+        "Record Date": "2025-10-04",
+        "Payment Date": "2025-09-22",
+        "Circular Number": "C00037-2025"
+    },
+    {
+        "Company Name": "Philippine National Bank",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.38",
+        "Ex-Dividend Date": "2025-09-12",
+        "Record Date": "2025-10-01",
+        "Payment Date": "2025-09-15",
+        "Circular Number": "C01263-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.025 (US$0.025)",
+        "Ex-Dividend Date": "2025-09-02",
+        "Record Date": "2025-09-18",
+        "Payment Date": "2025-09-03",
+        "Circular Number": "C00351-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.968825",
+        "Ex-Dividend Date": "2025-08-28",
+        "Record Date": "2025-09-15",
+        "Payment Date": "2025-08-29",
+        "Circular Number": "C00359-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 1.7678125",
+        "Ex-Dividend Date": "2025-08-28",
+        "Record Date": "2025-09-15",
+        "Payment Date": "2025-08-29",
+        "Circular Number": "C00354-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.0228125 (US$0.0228125)",
+        "Ex-Dividend Date": "2025-08-20",
+        "Record Date": "2025-09-08",
+        "Payment Date": "2025-08-22",
+        "Circular Number": "C00346-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNP Series A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.75 per share",
+        "Ex-Dividend Date": "2025-08-04",
+        "Record Date": "2025-08-29",
+        "Payment Date": "2025-08-05",
+        "Circular Number": "C00623-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2025-08-04",
+        "Record Date": "2025-08-26",
+        "Payment Date": "2025-08-05",
+        "Circular Number": "C00659-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2025-08-04",
+        "Record Date": "2025-08-26",
+        "Payment Date": "2025-08-05",
+        "Circular Number": "C00657-2025"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "CPGPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP 1.8858 per share",
+        "Ex-Dividend Date": "2025-07-25",
+        "Record Date": "2025-08-22",
+        "Payment Date": "2025-07-28",
+        "Circular Number": "C00372-2025"
+    },
+    {
+        "Company Name": "GT Capital Holdings, Inc.",
+        "Type of Security": "GTPPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php12.73725",
+        "Ex-Dividend Date": "2025-07-04",
+        "Record Date": "2025-07-28",
+        "Payment Date": "2025-07-07",
+        "Circular Number": "C07913-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA2",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.625",
+        "Ex-Dividend Date": "2025-07-01",
+        "Record Date": "2025-07-12",
+        "Payment Date": "2025-07-02",
+        "Circular Number": "C07478-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA1",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php18.9625",
+        "Ex-Dividend Date": "2025-07-01",
+        "Record Date": "2025-07-12",
+        "Payment Date": "2025-07-02",
+        "Circular Number": "C07476-2024"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.9973",
+        "Ex-Dividend Date": "2025-06-19",
+        "Record Date": "2025-07-04",
+        "Payment Date": "2025-06-20",
+        "Circular Number": "C00042-2025"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.1000",
+        "Ex-Dividend Date": "2025-06-19",
+        "Record Date": "2025-07-04",
+        "Payment Date": "2025-06-20",
+        "Circular Number": "C00038-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.025 (US$0.025)",
+        "Ex-Dividend Date": "2025-06-02",
+        "Record Date": "2025-06-18",
+        "Payment Date": "2025-06-03",
+        "Circular Number": "C00349-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.968825",
+        "Ex-Dividend Date": "2025-05-29",
+        "Record Date": "2025-06-16",
+        "Payment Date": "2025-05-30",
+        "Circular Number": "C00358-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 1.7678125",
+        "Ex-Dividend Date": "2025-05-29",
+        "Record Date": "2025-06-16",
+        "Payment Date": "2025-05-30",
+        "Circular Number": "C00353-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.0228125 (US$0.0228125)",
+        "Ex-Dividend Date": "2025-05-22",
+        "Record Date": "2025-06-09",
+        "Payment Date": "2025-05-23",
+        "Circular Number": "C00345-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNP Series A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.75 per share",
+        "Ex-Dividend Date": "2025-05-02",
+        "Record Date": "2025-05-29",
+        "Payment Date": "2025-05-05",
+        "Circular Number": "C00622-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2025-05-02",
+        "Record Date": "2025-05-23",
+        "Payment Date": "2025-05-05",
+        "Circular Number": "C00630-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2025-05-02",
+        "Record Date": "2025-05-23",
+        "Payment Date": "2025-05-05",
+        "Circular Number": "C00625-2025"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "CPGPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP 1.8858 per share",
+        "Ex-Dividend Date": "2025-04-24",
+        "Record Date": "2025-05-22",
+        "Payment Date": "2025-04-25",
+        "Circular Number": "C00371-2025"
+    },
+    {
+        "Company Name": "GT Capital Holdings, Inc.",
+        "Type of Security": "GTPPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php12.73725",
+        "Ex-Dividend Date": "2025-04-04",
+        "Record Date": "2025-04-28",
+        "Payment Date": "2025-04-07",
+        "Circular Number": "C07912-2024"
+    },
+    {
+        "Company Name": "Vantage Equities, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "0.27",
+        "Ex-Dividend Date": "2025-03-24",
+        "Record Date": "2025-04-25",
+        "Payment Date": "2025-03-25",
+        "Circular Number": "C01333-2025"
+    },
+    {
+        "Company Name": "Jollibee Foods Corporation",
+        "Type of Security": "JFCPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php10.60125 per share for Series B preferred shares (JFCPB)",
+        "Ex-Dividend Date": "2025-03-21",
+        "Record Date": "2025-04-15",
+        "Payment Date": "2025-03-24",
+        "Circular Number": "C01439-2025"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA2",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.625",
+        "Ex-Dividend Date": "2025-04-01",
+        "Record Date": "2025-04-12",
+        "Payment Date": "2025-04-02",
+        "Circular Number": "C07475-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA1",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php18.9625",
+        "Ex-Dividend Date": "2025-04-01",
+        "Record Date": "2025-04-12",
+        "Payment Date": "2025-04-02",
+        "Circular Number": "C07474-2024"
+    },
+    {
+        "Company Name": "A. Soriano Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Fifty Centavos  (P0.50)",
+        "Ex-Dividend Date": "2025-03-14",
+        "Record Date": "2025-04-11",
+        "Payment Date": "2025-03-17",
+        "Circular Number": "C01072-2025"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.76975",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-04-07",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C06986-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.71525",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-04-07",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C06981-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.99300",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-04-07",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C06980-2024"
+    },
+    {
+        "Company Name": "DigiPlus Interactive Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Eighty Six Centavos (Php 0.86) per share",
+        "Ex-Dividend Date": "2025-03-21",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-24",
+        "Circular Number": "C01456-2025"
+    },
+    {
+        "Company Name": "MREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.2505",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C01416-2025"
+    },
+    {
+        "Company Name": "Ginebra San Miguel,  Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.50 per Common Share",
+        "Ex-Dividend Date": "2025-03-19",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-20",
+        "Circular Number": "C01377-2025"
+    },
+    {
+        "Company Name": "Ginebra San Miguel,  Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.50 per Common Share",
+        "Ex-Dividend Date": "2025-03-19",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-20",
+        "Circular Number": "C01376-2025"
+    },
+    {
+        "Company Name": "Manila Electric Company",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P13.736",
+        "Ex-Dividend Date": "2025-03-11",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-12",
+        "Circular Number": "C01081-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2N",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5649875/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00286-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2J",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.890625/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00285-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2L",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.48396875/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00283-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2O",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.611300/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00282-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2M",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5703125/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00281-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2K",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.84375/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00280-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2I",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.18790625/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00279-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2F",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.27635/share",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C00278-2025"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.9973",
+        "Ex-Dividend Date": "2025-03-19",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-20",
+        "Circular Number": "C00043-2025"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.1000",
+        "Ex-Dividend Date": "2025-03-19",
+        "Record Date": "2025-04-04",
+        "Payment Date": "2025-03-20",
+        "Circular Number": "C00039-2025"
+    },
+    {
+        "Company Name": "PLDT Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P47.00",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-04-03",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C01206-2025"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.10",
+        "Ex-Dividend Date": "2025-03-17",
+        "Record Date": "2025-04-02",
+        "Payment Date": "2025-03-18",
+        "Circular Number": "C01341-2025"
+    },
+    {
+        "Company Name": "Philippine National Bank",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.38",
+        "Ex-Dividend Date": "2025-03-13",
+        "Record Date": "2025-04-02",
+        "Payment Date": "2025-03-14",
+        "Circular Number": "C01262-2025"
+    },
+    {
+        "Company Name": "OceanaGold (Philippines), Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "$0.0100 per share (USD)",
+        "Ex-Dividend Date": "2025-03-05",
+        "Record Date": "2025-04-01",
+        "Payment Date": "2025-03-06",
+        "Circular Number": "C00947-2025"
+    },
+    {
+        "Company Name": "BDO Unibank, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.00 per share",
+        "Ex-Dividend Date": "2025-03-10",
+        "Record Date": "2025-03-31",
+        "Payment Date": "2025-03-11",
+        "Circular Number": "C01040-2025"
+    },
+    {
+        "Company Name": "Sun Life Financial Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "CAD 0.84",
+        "Ex-Dividend Date": "2025-02-25",
+        "Record Date": "2025-03-31",
+        "Payment Date": "2025-02-26",
+        "Circular Number": "C00832-2025"
+    },
+    {
+        "Company Name": "Aboitiz Power Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.35",
+        "Ex-Dividend Date": "2025-03-20",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-21",
+        "Circular Number": "C01442-2025"
+    },
+    {
+        "Company Name": "International Container Terminal Services, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php14.16 per share",
+        "Ex-Dividend Date": "2025-03-19",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-20",
+        "Circular Number": "C01414-2025"
+    },
+    {
+        "Company Name": "Manila Water Company, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.167",
+        "Ex-Dividend Date": "2025-03-07",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-10",
+        "Circular Number": "C01070-2025"
+    },
+    {
+        "Company Name": "Manila Water Company, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.674",
+        "Ex-Dividend Date": "2025-03-07",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-10",
+        "Circular Number": "C01069-2025"
+    },
+    {
+        "Company Name": "Metropolitan Bank & Trust Company",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 2.00",
+        "Ex-Dividend Date": "2025-03-05",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-06",
+        "Circular Number": "C00950-2025"
+    },
+    {
+        "Company Name": "Metropolitan Bank & Trust Company",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 1.50",
+        "Ex-Dividend Date": "2025-03-05",
+        "Record Date": "2025-03-28",
+        "Payment Date": "2025-03-06",
+        "Circular Number": "C00949-2025"
+    },
+    {
+        "Company Name": "Nickel Asia Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Special cash dividends at the rate of PhP0.044 per common share",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-03-26",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C01217-2025"
+    },
+    {
+        "Company Name": "Nickel Asia Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Regular cash dividends at the rate of PhP0.066 per common share",
+        "Ex-Dividend Date": "2025-03-12",
+        "Record Date": "2025-03-26",
+        "Payment Date": "2025-03-13",
+        "Circular Number": "C01216-2025"
+    },
+    {
+        "Company Name": "Century Pacific Food, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Fifty-five Centavos",
+        "Ex-Dividend Date": "2025-02-28",
+        "Record Date": "2025-03-26",
+        "Payment Date": "2025-03-03",
+        "Circular Number": "C00893-2025"
+    },
+    {
+        "Company Name": "SBS Philippines Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.06",
+        "Ex-Dividend Date": "2025-03-11",
+        "Record Date": "2025-03-25",
+        "Payment Date": "2025-03-12",
+        "Circular Number": "C01323-2025"
+    },
+    {
+        "Company Name": "SBS Philippines Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.005",
+        "Ex-Dividend Date": "2025-03-11",
+        "Record Date": "2025-03-25",
+        "Payment Date": "2025-03-12",
+        "Circular Number": "C01322-2025"
+    },
+    {
+        "Company Name": "Filinvest REIT Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.062",
+        "Ex-Dividend Date": "2025-03-11",
+        "Record Date": "2025-03-25",
+        "Payment Date": "2025-03-12",
+        "Circular Number": "C01122-2025"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF3B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.84575",
+        "Ex-Dividend Date": "2025-02-28",
+        "Record Date": "2025-03-25",
+        "Payment Date": "2025-03-03",
+        "Circular Number": "C06976-2024"
+    },
+    {
+        "Company Name": "Philex Mining Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.02",
+        "Ex-Dividend Date": "2025-03-11",
+        "Record Date": "2025-03-24",
+        "Payment Date": "2025-03-12",
+        "Circular Number": "C01183-2025"
+    },
+    {
+        "Company Name": "EEI Corporation",
+        "Type of Security": "EEIPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP1.73485 per share, per quarter (Equivalent to the rate of 6.9394% per annum)",
+        "Ex-Dividend Date": "2025-02-28",
+        "Record Date": "2025-03-24",
+        "Payment Date": "2025-03-03",
+        "Circular Number": "C00732-2025"
+    },
+    {
+        "Company Name": "EEI Corporation",
+        "Type of Security": "EEIPA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP1.441025 per share, per quarter (Equivalent to the rate of 5.7641% per annum)",
+        "Ex-Dividend Date": "2025-02-28",
+        "Record Date": "2025-03-24",
+        "Payment Date": "2025-03-03",
+        "Circular Number": "C00731-2025"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4E",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.75800",
+        "Ex-Dividend Date": "2025-02-27",
+        "Record Date": "2025-03-24",
+        "Payment Date": "2025-02-28",
+        "Circular Number": "C06985-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.09100",
+        "Ex-Dividend Date": "2025-02-27",
+        "Record Date": "2025-03-24",
+        "Payment Date": "2025-02-28",
+        "Circular Number": "C06984-2024"
+    },
+    {
+        "Company Name": "Belle Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.06",
+        "Ex-Dividend Date": "2025-03-06",
+        "Record Date": "2025-03-21",
+        "Payment Date": "2025-03-07",
+        "Circular Number": "C01053-2025"
+    },
+    {
+        "Company Name": "Ayala Land, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.2888",
+        "Ex-Dividend Date": "2025-03-04",
+        "Record Date": "2025-03-21",
+        "Payment Date": "2025-03-05",
+        "Circular Number": "C00968-2025"
+    },
+    {
+        "Company Name": "AREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.58",
+        "Ex-Dividend Date": "2025-03-04",
+        "Record Date": "2025-03-21",
+        "Payment Date": "2025-03-05",
+        "Circular Number": "C00966-2025"
+    },
+    {
+        "Company Name": "Manulife Financial Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "C$0.44",
+        "Ex-Dividend Date": "2025-03-04",
+        "Record Date": "2025-03-19",
+        "Payment Date": "2025-03-05",
+        "Circular Number": "C00975-2025"
+    },
+    {
+        "Company Name": "Far Eastern University, Incorporated",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "16.00",
+        "Ex-Dividend Date": "2025-03-03",
+        "Record Date": "2025-03-18",
+        "Payment Date": "2025-03-04",
+        "Circular Number": "C00930-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.025 (US$0.025)",
+        "Ex-Dividend Date": "2025-02-28",
+        "Record Date": "2025-03-18",
+        "Payment Date": "2025-03-03",
+        "Circular Number": "C00348-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.968825",
+        "Ex-Dividend Date": "2025-02-26",
+        "Record Date": "2025-03-14",
+        "Payment Date": "2025-02-27",
+        "Circular Number": "C00357-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 1.7678125",
+        "Ex-Dividend Date": "2025-02-26",
+        "Record Date": "2025-03-14",
+        "Payment Date": "2025-02-27",
+        "Circular Number": "C00350-2025"
+    },
+    {
+        "Company Name": "Victorias Milling Company, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.01",
+        "Ex-Dividend Date": "2025-02-18",
+        "Record Date": "2025-03-12",
+        "Payment Date": "2025-02-19",
+        "Circular Number": "C00653-2025"
+    },
+    {
+        "Company Name": "Victorias Milling Company, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.05",
+        "Ex-Dividend Date": "2025-02-18",
+        "Record Date": "2025-03-12",
+        "Payment Date": "2025-02-19",
+        "Circular Number": "C00652-2025"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.0228125 (US$0.0228125)",
+        "Ex-Dividend Date": "2025-02-20",
+        "Record Date": "2025-03-10",
+        "Payment Date": "2025-02-21",
+        "Circular Number": "C00344-2025"
+    },
+    {
+        "Company Name": "Globe Telecom, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php25 per common share",
+        "Ex-Dividend Date": "2025-02-19",
+        "Record Date": "2025-03-07",
+        "Payment Date": "2025-02-20",
+        "Circular Number": "C00727-2025"
+    },
+    {
+        "Company Name": "San Miguel Food and Beverage, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "COMMON AT P0.50 PER SHARE",
+        "Ex-Dividend Date": "2025-02-18",
+        "Record Date": "2025-03-06",
+        "Payment Date": "2025-02-19",
+        "Circular Number": "C00681-2025"
+    },
+    {
+        "Company Name": "ACEN CORPORATION",
+        "Type of Security": "ACENB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.00000",
+        "Ex-Dividend Date": "2025-02-14",
+        "Record Date": "2025-03-03",
+        "Payment Date": "2025-02-17",
+        "Circular Number": "C00644-2025"
+    },
+    {
+        "Company Name": "ACEN CORPORATION",
+        "Type of Security": "ACENA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php17.83250",
+        "Ex-Dividend Date": "2025-02-14",
+        "Record Date": "2025-03-03",
+        "Payment Date": "2025-02-17",
+        "Circular Number": "C00643-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNP Series A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.75 per share",
+        "Ex-Dividend Date": "2025-02-14",
+        "Record Date": "2025-03-03",
+        "Payment Date": "2025-02-17",
+        "Circular Number": "C00621-2025"
+    },
+    {
+        "Company Name": "Arthaland Corporation",
+        "Type of Security": "Series D (ALCPD) ONLY",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php7.50",
+        "Ex-Dividend Date": "2025-02-06",
+        "Record Date": "2025-03-03",
+        "Payment Date": "2025-02-07",
+        "Circular Number": "C00399-2025"
+    },
+    {
+        "Company Name": "RL Commercial REIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.1010/share",
+        "Ex-Dividend Date": "2025-02-19",
+        "Record Date": "2025-02-28",
+        "Payment Date": "2025-02-20",
+        "Circular Number": "C00700-2025"
+    },
+    {
+        "Company Name": "Ayala Corporation",
+        "Type of Security": "ACPAR",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php39.741875",
+        "Ex-Dividend Date": "2025-02-12",
+        "Record Date": "2025-02-28",
+        "Payment Date": "2025-02-13",
+        "Circular Number": "C00545-2025"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.4375",
+        "Ex-Dividend Date": "2025-02-10",
+        "Record Date": "2025-02-27",
+        "Payment Date": "2025-02-11",
+        "Circular Number": "C00408-2025"
+    },
+    {
+        "Company Name": "Union Bank of the Philippines",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.00",
+        "Ex-Dividend Date": "2025-02-14",
+        "Record Date": "2025-02-24",
+        "Payment Date": "2025-02-17",
+        "Circular Number": "C00599-2025"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "CPGPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP 1.8858000 per share",
+        "Ex-Dividend Date": "2025-02-04",
+        "Record Date": "2025-02-24",
+        "Payment Date": "2025-02-05",
+        "Circular Number": "C00370-2025"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2025-02-07",
+        "Record Date": "2025-02-24",
+        "Payment Date": "2025-02-10",
+        "Circular Number": "C02015-2024"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2025-02-07",
+        "Record Date": "2025-02-24",
+        "Payment Date": "2025-02-10",
+        "Circular Number": "C02012-2024"
+    },
+    {
+        "Company Name": "Emperador Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Nineteen Centavos (Php0.19) per share",
+        "Ex-Dividend Date": "2025-01-30",
+        "Record Date": "2025-02-18",
+        "Payment Date": "2025-01-31",
+        "Circular Number": "C00242-2025"
+    },
+    {
+        "Company Name": "RFM Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.05936",
+        "Ex-Dividend Date": "2025-01-21",
+        "Record Date": "2025-02-18",
+        "Payment Date": "2025-01-22",
+        "Circular Number": "C00097-2025"
+    },
+    {
+        "Company Name": "Philippine Savings Bank",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.75",
+        "Ex-Dividend Date": "2025-01-31",
+        "Record Date": "2025-02-17",
+        "Payment Date": "2025-02-03",
+        "Circular Number": "C00297-2025"
+    },
+    {
+        "Company Name": "DDMP REIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0236050",
+        "Ex-Dividend Date": "2025-01-21",
+        "Record Date": "2025-02-14",
+        "Payment Date": "2025-01-22",
+        "Circular Number": "C07919-2024"
+    },
+    {
+        "Company Name": "Arthaland Corporation",
+        "Type of Security": "Series F (ALCPF) ONLY",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php9.1575",
+        "Ex-Dividend Date": "2025-01-20",
+        "Record Date": "2025-02-14",
+        "Payment Date": "2025-01-21",
+        "Circular Number": "C07842-2024"
+    },
+    {
+        "Company Name": "Liberty Flour Mills, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP2.00",
+        "Ex-Dividend Date": "2025-01-09",
+        "Record Date": "2025-02-04",
+        "Payment Date": "2025-01-10",
+        "Circular Number": "C08006-2024"
+    },
+    {
+        "Company Name": "PTFC Redevelopment Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P2.00",
+        "Ex-Dividend Date": "2025-01-06",
+        "Record Date": "2025-02-03",
+        "Payment Date": "2025-01-07",
+        "Circular Number": "C07815-2024"
+    },
+    {
+        "Company Name": "STI Education Systems Holdings, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "0.045",
+        "Ex-Dividend Date": "2025-01-08",
+        "Record Date": "2025-01-31",
+        "Payment Date": "2025-01-09",
+        "Circular Number": "C07994-2024"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP4",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.325",
+        "Ex-Dividend Date": "2025-01-21",
+        "Record Date": "2025-01-30",
+        "Payment Date": "2025-01-22",
+        "Circular Number": "C00058-2025"
+    },
+    {
+        "Company Name": "GT Capital Holdings, Inc.",
+        "Type of Security": "GTPPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php12.73725",
+        "Ex-Dividend Date": "2025-01-03",
+        "Record Date": "2025-01-27",
+        "Payment Date": "2025-01-06",
+        "Circular Number": "C07911-2024"
+    },
+    {
+        "Company Name": "Alliance Global Group, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Ten Centavos (Php0.10) per share",
+        "Ex-Dividend Date": "2024-12-26",
+        "Record Date": "2025-01-24",
+        "Payment Date": "2024-12-27",
+        "Circular Number": "C07808-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.35/share",
+        "Ex-Dividend Date": "2025-01-02",
+        "Record Date": "2025-01-24",
+        "Payment Date": "2025-01-03",
+        "Circular Number": "C07741-2024"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP5",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.97605",
+        "Ex-Dividend Date": "2024-12-26",
+        "Record Date": "2025-01-17",
+        "Payment Date": "2024-12-27",
+        "Circular Number": "C07830-2024"
+    },
+    {
+        "Company Name": "Centro Escolar University",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Stock",
+        "Dividend Rate": "20% stock dividend",
+        "Ex-Dividend Date": "2024-12-17",
+        "Record Date": "2025-01-16",
+        "Payment Date": "2024-12-18",
+        "Circular Number": "C07701-2024"
+    },
+    {
+        "Company Name": "Jollibee Foods Corporation",
+        "Type of Security": "JFCPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php10.60125 per share for Series B preferred shares (JFCPB)",
+        "Ex-Dividend Date": "2025-01-07",
+        "Record Date": "2025-01-15",
+        "Payment Date": "2025-01-08",
+        "Circular Number": "C08012-2024"
+    },
+    {
+        "Company Name": "Ayala Corporation",
+        "Type of Security": "ACPB3",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php30.269",
+        "Ex-Dividend Date": "2025-01-03",
+        "Record Date": "2025-01-15",
+        "Payment Date": "2025-01-06",
+        "Circular Number": "C07931-2024"
+    },
+    {
+        "Company Name": "Manila Broadcasting Company",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.10 per share",
+        "Ex-Dividend Date": "2024-12-26",
+        "Record Date": "2025-01-15",
+        "Payment Date": "2024-12-27",
+        "Circular Number": "C07846-2024"
+    },
+    {
+        "Company Name": "DoubleDragon Corporation",
+        "Type of Security": "DDPR",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP2.42125",
+        "Ex-Dividend Date": "2025-01-02",
+        "Record Date": "2025-01-14",
+        "Payment Date": "2025-01-03",
+        "Circular Number": "C07922-2024"
+    },
+    {
+        "Company Name": "Citicore Energy REIT Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP0.049",
+        "Ex-Dividend Date": "2024-12-11",
+        "Record Date": "2025-01-13",
+        "Payment Date": "2024-12-12",
+        "Circular Number": "C07202-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA1",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php18.9625",
+        "Ex-Dividend Date": "2024-12-27",
+        "Record Date": "2025-01-12",
+        "Payment Date": "2025-01-02",
+        "Circular Number": "C07473-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA2",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.625",
+        "Ex-Dividend Date": "2024-12-27",
+        "Record Date": "2025-01-12",
+        "Payment Date": "2025-01-02",
+        "Circular Number": "C07472-2024"
+    },
+    {
+        "Company Name": "Ayala Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php4.1866",
+        "Ex-Dividend Date": "2024-12-27",
+        "Record Date": "2025-01-11",
+        "Payment Date": "2025-01-02",
+        "Circular Number": "C07878-2024"
+    },
+    {
+        "Company Name": "VistaREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.04667",
+        "Ex-Dividend Date": "2024-12-12",
+        "Record Date": "2025-01-10",
+        "Payment Date": "2024-12-13",
+        "Circular Number": "C07239-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.71525",
+        "Ex-Dividend Date": "2024-12-06",
+        "Record Date": "2025-01-07",
+        "Payment Date": "2024-12-09",
+        "Circular Number": "C06979-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.99300",
+        "Ex-Dividend Date": "2024-12-06",
+        "Record Date": "2025-01-07",
+        "Payment Date": "2024-12-09",
+        "Circular Number": "C06978-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.76975",
+        "Ex-Dividend Date": "2024-12-06",
+        "Record Date": "2025-01-07",
+        "Payment Date": "2024-12-09",
+        "Circular Number": "C06977-2024"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.1000",
+        "Ex-Dividend Date": "2024-12-13",
+        "Record Date": "2025-01-04",
+        "Payment Date": "2024-12-16",
+        "Circular Number": "C00040-2025"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "VLL2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.9973",
+        "Ex-Dividend Date": "2024-12-13",
+        "Record Date": "2025-01-04",
+        "Payment Date": "2024-12-16",
+        "Circular Number": "C00036-2025"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2F",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.27635/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07078-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2O",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.611300/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07077-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2N",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5649875/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07076-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2M",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5703125/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07075-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2L",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.48396875/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07074-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2K",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.84375/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07073-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2J",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.890625/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07072-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2I",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.18790625/share",
+        "Ex-Dividend Date": "2024-12-19",
+        "Record Date": "2025-01-03",
+        "Payment Date": "2024-12-20",
+        "Circular Number": "C07071-2024"
+    },
+    {
+        "Company Name": "Pryce Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.20 per common share",
+        "Ex-Dividend Date": "2024-11-29",
+        "Record Date": "2025-01-02",
+        "Payment Date": "2024-12-02",
+        "Circular Number": "C06994-2024"
+    },
+    {
+        "Company Name": "Sun Life Financial Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "CAD 0.84",
+        "Ex-Dividend Date": "2024-11-26",
+        "Record Date": "2024-12-31",
+        "Payment Date": "2024-11-27",
+        "Circular Number": "C06957-2024"
+    },
+    {
+        "Company Name": "BDO Unibank, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.00 per share",
+        "Ex-Dividend Date": "2024-12-12",
+        "Record Date": "2024-12-27",
+        "Payment Date": "2024-12-13",
+        "Circular Number": "C07622-2024"
+    },
+    {
+        "Company Name": "Premiere Island Power REIT Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0325",
+        "Ex-Dividend Date": "2024-12-12",
+        "Record Date": "2024-12-27",
+        "Payment Date": "2024-12-13",
+        "Circular Number": "C07606-2024"
+    },
+    {
+        "Company Name": "Monde Nissin Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.14/share",
+        "Ex-Dividend Date": "2024-11-29",
+        "Record Date": "2024-12-27",
+        "Payment Date": "2024-12-02",
+        "Circular Number": "C07028-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF3B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.84575",
+        "Ex-Dividend Date": "2024-11-28",
+        "Record Date": "2024-12-26",
+        "Payment Date": "2024-11-29",
+        "Circular Number": "C06975-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF3A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.17825",
+        "Ex-Dividend Date": "2024-11-28",
+        "Record Date": "2024-12-26",
+        "Payment Date": "2024-11-29",
+        "Circular Number": "C06974-2024"
+    },
+    {
+        "Company Name": "First Gen Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP0.45",
+        "Ex-Dividend Date": "2024-12-11",
+        "Record Date": "2024-12-23",
+        "Payment Date": "2024-12-12",
+        "Circular Number": "C07616-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4E",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.75800",
+        "Ex-Dividend Date": "2024-11-27",
+        "Record Date": "2024-12-23",
+        "Payment Date": "2024-11-28",
+        "Circular Number": "C06983-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.09100",
+        "Ex-Dividend Date": "2024-11-27",
+        "Record Date": "2024-12-23",
+        "Payment Date": "2024-11-28",
+        "Circular Number": "C06982-2024"
+    },
+    {
+        "Company Name": "EEI Corporation",
+        "Type of Security": "EEIPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP1.73485 per share per quarter (Equivalent to a rate of 6.9394% per annum)",
+        "Ex-Dividend Date": "2024-11-29",
+        "Record Date": "2024-12-23",
+        "Payment Date": "2024-12-02",
+        "Circular Number": "C00764-2024"
+    },
+    {
+        "Company Name": "EEI Corporation",
+        "Type of Security": "EEIPA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP1.441025 per share, per quarter (Equivalent to the rate of 5.7641% per annum)",
+        "Ex-Dividend Date": "2024-11-29",
+        "Record Date": "2024-12-23",
+        "Payment Date": "2024-12-02",
+        "Circular Number": "C00760-2024"
+    },
+    {
+        "Company Name": "Bank of the Philippine Islands",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.98 per common share",
+        "Ex-Dividend Date": "2024-12-03",
+        "Record Date": "2024-12-20",
+        "Payment Date": "2024-12-04",
+        "Circular Number": "C07456-2024"
+    },
+    {
+        "Company Name": "Sta. Lucia Land, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP0.04",
+        "Ex-Dividend Date": "2024-11-27",
+        "Record Date": "2024-12-20",
+        "Payment Date": "2024-11-28",
+        "Circular Number": "C07092-2024"
+    },
+    {
+        "Company Name": "Manulife Financial Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "C$0.40",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-12-19",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07064-2024"
+    },
+    {
+        "Company Name": "Alternergy Holdings Corporation",
+        "Type of Security": "NA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.3458192717",
+        "Ex-Dividend Date": "2024-11-21",
+        "Record Date": "2024-12-18",
+        "Payment Date": "2024-11-22",
+        "Circular Number": "C07836-2024"
+    },
+    {
+        "Company Name": "First Philippine Holdings Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.10",
+        "Ex-Dividend Date": "2024-11-22",
+        "Record Date": "2024-12-18",
+        "Payment Date": "2024-11-25",
+        "Circular Number": "C07086-2024"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.025 (US$0.025)",
+        "Ex-Dividend Date": "2024-12-02",
+        "Record Date": "2024-12-18",
+        "Payment Date": "2024-12-03",
+        "Circular Number": "C00314-2024"
+    },
+    {
+        "Company Name": "Manila Jockey Club, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.05 per share",
+        "Ex-Dividend Date": "2024-11-20",
+        "Record Date": "2024-12-17",
+        "Payment Date": "2024-11-21",
+        "Circular Number": "C07081-2024"
+    },
+    {
+        "Company Name": "OceanaGold (Philippines), Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "$0.0138 per share (USD)",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-12-16",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07029-2024"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2D",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.968825",
+        "Ex-Dividend Date": "2024-11-28",
+        "Record Date": "2024-12-16",
+        "Payment Date": "2024-11-29",
+        "Circular Number": "C00322-2024"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP 0.8233",
+        "Ex-Dividend Date": "2024-11-28",
+        "Record Date": "2024-12-16",
+        "Payment Date": "2024-11-29",
+        "Circular Number": "C00318-2024"
+    },
+    {
+        "Company Name": "AREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.58",
+        "Ex-Dividend Date": "2024-11-26",
+        "Record Date": "2024-12-13",
+        "Payment Date": "2024-11-27",
+        "Circular Number": "C07275-2024"
+    },
+    {
+        "Company Name": "AbaCore Capital Holdings, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Stock",
+        "Dividend Rate": "10%",
+        "Ex-Dividend Date": "2020-10-27",
+        "Record Date": "2024-12-12",
+        "Payment Date": "2020-10-30",
+        "Circular Number": "C07909-2024"
+    },
+    {
+        "Company Name": "Vista Land & Lifescapes, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "0.1120",
+        "Ex-Dividend Date": "2024-11-27",
+        "Record Date": "2024-12-12",
+        "Payment Date": "2024-11-28",
+        "Circular Number": "C07300-2024"
+    },
+    {
+        "Company Name": "Vistamalls, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "0.0365",
+        "Ex-Dividend Date": "2024-11-27",
+        "Record Date": "2024-12-12",
+        "Payment Date": "2024-11-28",
+        "Circular Number": "C07259-2024"
+    },
+    {
+        "Company Name": "AllDay Marts, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0032",
+        "Ex-Dividend Date": "2024-11-26",
+        "Record Date": "2024-12-12",
+        "Payment Date": "2024-11-27",
+        "Circular Number": "C07256-2024"
+    },
+    {
+        "Company Name": "AllHome Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0309",
+        "Ex-Dividend Date": "2024-11-26",
+        "Record Date": "2024-12-12",
+        "Payment Date": "2024-11-27",
+        "Circular Number": "C07255-2024"
+    },
+    {
+        "Company Name": "Jollibee Foods Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.82",
+        "Ex-Dividend Date": "2024-11-22",
+        "Record Date": "2024-12-10",
+        "Payment Date": "2024-11-25",
+        "Circular Number": "C07163-2024"
+    },
+    {
+        "Company Name": "Benguet Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.20 per share",
+        "Ex-Dividend Date": "2024-11-13",
+        "Record Date": "2024-12-10",
+        "Payment Date": "2024-11-14",
+        "Circular Number": "C06867-2024"
+    },
+    {
+        "Company Name": "Benguet Corporation",
+        "Type of Security": "Convertible Preferred Class \"A\"",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.28 per share",
+        "Ex-Dividend Date": "2024-11-13",
+        "Record Date": "2024-12-10",
+        "Payment Date": "2024-11-14",
+        "Circular Number": "C06866-2024"
+    },
+    {
+        "Company Name": "LT Group, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.35",
+        "Ex-Dividend Date": "2024-11-29",
+        "Record Date": "2024-12-09",
+        "Payment Date": "2024-12-02",
+        "Circular Number": "C07351-2024"
+    },
+    {
+        "Company Name": "Cirtek Holdings Philippines Corporation",
+        "Type of Security": "TCB2A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "US Dollars 0.0228125 (US$0.0228125)",
+        "Ex-Dividend Date": "2024-11-21",
+        "Record Date": "2024-12-09",
+        "Payment Date": "2024-11-22",
+        "Circular Number": "C00310-2024"
+    },
+    {
+        "Company Name": "Republic Glass Holdings Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.04",
+        "Ex-Dividend Date": "2024-11-25",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-26",
+        "Circular Number": "C07232-2024"
+    },
+    {
+        "Company Name": "Globe Telecom, Inc.",
+        "Type of Security": "GLOPA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.38 per share",
+        "Ex-Dividend Date": "2024-11-20",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-21",
+        "Circular Number": "C07093-2024"
+    },
+    {
+        "Company Name": "Globe Telecom, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php25 per common share",
+        "Ex-Dividend Date": "2024-11-20",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-21",
+        "Circular Number": "C07091-2024"
+    },
+    {
+        "Company Name": "Filinvest REIT Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.062",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07044-2024"
+    },
+    {
+        "Company Name": "San Miguel Food and Beverage, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "COMMON AT P0.45 PER SHARE",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07038-2024"
+    },
+    {
+        "Company Name": "San Miguel Food and Beverage, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "COMMON AT P1.00 PER SHARE",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07037-2024"
+    },
+    {
+        "Company Name": "Ginebra San Miguel,  Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.50 per Common Share",
+        "Ex-Dividend Date": "2024-11-20",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-21",
+        "Circular Number": "C07003-2024"
+    },
+    {
+        "Company Name": "Ginebra San Miguel,  Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php2.50 per Common Share",
+        "Ex-Dividend Date": "2024-11-20",
+        "Record Date": "2024-12-06",
+        "Payment Date": "2024-11-21",
+        "Circular Number": "C07002-2024"
+    },
+    {
+        "Company Name": "Figaro Coffee Group, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.027 per share",
+        "Ex-Dividend Date": "2024-11-13",
+        "Record Date": "2024-12-04",
+        "Payment Date": "2024-11-14",
+        "Circular Number": "C06481-2024"
+    },
+    {
+        "Company Name": "Arthaland Corporation",
+        "Type of Security": "Series D (ALCPD) ONLY",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php7.50",
+        "Ex-Dividend Date": "2024-11-18",
+        "Record Date": "2024-12-03",
+        "Payment Date": "2024-11-19",
+        "Circular Number": "C07011-2024"
+    },
+    {
+        "Company Name": "MREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.2489",
+        "Ex-Dividend Date": "2024-11-15",
+        "Record Date": "2024-12-03",
+        "Payment Date": "2024-11-18",
+        "Circular Number": "C06955-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.35/share",
+        "Ex-Dividend Date": "2024-11-21",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-22",
+        "Circular Number": "C07068-2024"
+    },
+    {
+        "Company Name": "ACEN CORPORATION",
+        "Type of Security": "ACENB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php20.00000",
+        "Ex-Dividend Date": "2024-11-15",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-18",
+        "Circular Number": "C06959-2024"
+    },
+    {
+        "Company Name": "ACEN CORPORATION",
+        "Type of Security": "ACENA",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php17.83250",
+        "Ex-Dividend Date": "2024-11-15",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-18",
+        "Circular Number": "C06958-2024"
+    },
+    {
+        "Company Name": "Euro-Med Laboratories Phil., Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.06",
+        "Ex-Dividend Date": "2024-11-14",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-15",
+        "Circular Number": "C06872-2024"
+    },
+    {
+        "Company Name": "RFM Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.148388",
+        "Ex-Dividend Date": "2024-11-05",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-06",
+        "Circular Number": "C06722-2024"
+    },
+    {
+        "Company Name": "Haus Talk, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.02",
+        "Ex-Dividend Date": "2024-11-07",
+        "Record Date": "2024-12-02",
+        "Payment Date": "2024-11-08",
+        "Circular Number": "C06436-2024"
+    },
+    {
+        "Company Name": "RL Commercial REIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.0260/share",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07026-2024"
+    },
+    {
+        "Company Name": "RL Commercial REIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.1009/share",
+        "Ex-Dividend Date": "2024-11-19",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-20",
+        "Circular Number": "C07025-2024"
+    },
+    {
+        "Company Name": "Ayala Corporation",
+        "Type of Security": "APB2R",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php6.02675",
+        "Ex-Dividend Date": "2024-11-14",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-15",
+        "Circular Number": "C06907-2024"
+    },
+    {
+        "Company Name": "Ayala Corporation",
+        "Type of Security": "ACPAR",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php39.741875",
+        "Ex-Dividend Date": "2024-11-14",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-15",
+        "Circular Number": "C06906-2024"
+    },
+    {
+        "Company Name": "A. Soriano Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Twenty Five Centavos (P0.25)",
+        "Ex-Dividend Date": "2024-11-13",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-14",
+        "Circular Number": "C06854-2024"
+    },
+    {
+        "Company Name": "Fruitas Holdings, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.01 per share",
+        "Ex-Dividend Date": "2024-11-08",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-11",
+        "Circular Number": "C06802-2024"
+    },
+    {
+        "Company Name": "DoubleDragon Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.2648000",
+        "Ex-Dividend Date": "2024-11-05",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-06",
+        "Circular Number": "C06279-2024"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNP Series A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.75 per share",
+        "Ex-Dividend Date": "2024-11-04",
+        "Record Date": "2024-11-29",
+        "Payment Date": "2024-11-05",
+        "Circular Number": "C00559-2024"
+    },
+    {
+        "Company Name": "Security Bank Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 1.50",
+        "Ex-Dividend Date": "2024-11-12",
+        "Record Date": "2024-11-27",
+        "Payment Date": "2024-11-13",
+        "Circular Number": "C06856-2024"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP2B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.4375",
+        "Ex-Dividend Date": "2024-11-11",
+        "Record Date": "2024-11-27",
+        "Payment Date": "2024-11-12",
+        "Circular Number": "C06784-2024"
+    },
+    {
+        "Company Name": "DDMP REIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0235610",
+        "Ex-Dividend Date": "2024-10-30",
+        "Record Date": "2024-11-26",
+        "Payment Date": "2024-10-31",
+        "Circular Number": "C06275-2024"
+    },
+    {
+        "Company Name": "Raslag Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.05",
+        "Ex-Dividend Date": "2024-10-30",
+        "Record Date": "2024-11-25",
+        "Payment Date": "2024-10-31",
+        "Circular Number": "C06590-2024"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPC Series C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.1875 per share",
+        "Ex-Dividend Date": "2024-11-04",
+        "Record Date": "2024-11-25",
+        "Payment Date": "2024-11-05",
+        "Circular Number": "C02016-2024"
+    },
+    {
+        "Company Name": "A Brown Company, Inc.",
+        "Type of Security": "BRNPB Series B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 2.0625 per share",
+        "Ex-Dividend Date": "2024-11-04",
+        "Record Date": "2024-11-25",
+        "Payment Date": "2024-11-05",
+        "Circular Number": "C02011-2024"
+    },
+    {
+        "Company Name": "Ayala Land, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.2913",
+        "Ex-Dividend Date": "2024-11-07",
+        "Record Date": "2024-11-22",
+        "Payment Date": "2024-11-08",
+        "Circular Number": "C06771-2024"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "CPGPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.8858000",
+        "Ex-Dividend Date": "2024-10-25",
+        "Record Date": "2024-11-22",
+        "Payment Date": "2024-10-28",
+        "Circular Number": "C04704-2024"
+    },
+    {
+        "Company Name": "Philippine Racing Club, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.08",
+        "Ex-Dividend Date": "2024-10-29",
+        "Record Date": "2024-11-21",
+        "Payment Date": "2024-10-30",
+        "Circular Number": "C06624-2024"
+    },
+    {
+        "Company Name": "Megaworld Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.08175968",
+        "Ex-Dividend Date": "2024-11-04",
+        "Record Date": "2024-11-18",
+        "Payment Date": "2024-11-05",
+        "Circular Number": "C06687-2024"
+    },
+    {
+        "Company Name": "Philippine Savings Bank",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.75",
+        "Ex-Dividend Date": "2024-10-31",
+        "Record Date": "2024-11-18",
+        "Payment Date": "2024-11-04",
+        "Circular Number": "C06644-2024"
+    },
+    {
+        "Company Name": "DMCI Holdings, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php0.48",
+        "Ex-Dividend Date": "2024-10-29",
+        "Record Date": "2024-11-15",
+        "Payment Date": "2024-10-30",
+        "Circular Number": "C06612-2024"
+    },
+    {
+        "Company Name": "Semirara Mining and Power Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P2.50",
+        "Ex-Dividend Date": "2024-10-28",
+        "Record Date": "2024-11-14",
+        "Payment Date": "2024-10-29",
+        "Circular Number": "C06596-2024"
+    },
+    {
+        "Company Name": "COL Financial Group, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Stock",
+        "Dividend Rate": "25% of the Corporation\u2019s outstanding capital stock of 4,760,000,000",
+        "Ex-Dividend Date": "2024-10-22",
+        "Record Date": "2024-11-14",
+        "Payment Date": "2024-10-23",
+        "Circular Number": "C06256-2024"
+    },
+    {
+        "Company Name": "Balai Ni Fruitas Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.005 per share",
+        "Ex-Dividend Date": "2024-10-23",
+        "Record Date": "2024-11-08",
+        "Payment Date": "2024-10-24",
+        "Circular Number": "C06457-2024"
+    },
+    {
+        "Company Name": "F & J Prince Holdings Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "0.05",
+        "Ex-Dividend Date": "2024-10-04",
+        "Record Date": "2024-10-30",
+        "Payment Date": "2024-10-07",
+        "Circular Number": "C05252-2024"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP4",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.325",
+        "Ex-Dividend Date": "2024-10-11",
+        "Record Date": "2024-10-29",
+        "Payment Date": "2024-10-14",
+        "Circular Number": "C06238-2024"
+    },
+    {
+        "Company Name": "GT Capital Holdings, Inc.",
+        "Type of Security": "GTPPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php12.73725",
+        "Ex-Dividend Date": "2024-10-04",
+        "Record Date": "2024-10-28",
+        "Payment Date": "2024-10-07",
+        "Circular Number": "C08764-2023"
+    },
+    {
+        "Company Name": "Philippine National Bank",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Property",
+        "Dividend Rate": "0.156886919 shares of PHC for every 1 share of PNB",
+        "Ex-Dividend Date": "2021-05-13",
+        "Record Date": "2024-10-25",
+        "Payment Date": "2021-05-18",
+        "Circular Number": "C06689-2024"
+    },
+    {
+        "Company Name": "Far Eastern University, Incorporated",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php16.00",
+        "Ex-Dividend Date": "2024-09-30",
+        "Record Date": "2024-10-17",
+        "Payment Date": "2024-10-01",
+        "Circular Number": "C06086-2024"
+    },
+    {
+        "Company Name": "Megawide Construction Corporation",
+        "Type of Security": "MWP5",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.97605",
+        "Ex-Dividend Date": "2024-10-01",
+        "Record Date": "2024-10-17",
+        "Payment Date": "2024-10-02",
+        "Circular Number": "C06054-2024"
+    },
+    {
+        "Company Name": "Jollibee Foods Corporation",
+        "Type of Security": "JFCPB",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php10.60125 per share for Series B preferred shares",
+        "Ex-Dividend Date": "2024-09-27",
+        "Record Date": "2024-10-15",
+        "Payment Date": "2024-09-30",
+        "Circular Number": "C06028-2024"
+    },
+    {
+        "Company Name": "DoubleDragon Corporation",
+        "Type of Security": "DDPR",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP2.42125",
+        "Ex-Dividend Date": "2024-10-02",
+        "Record Date": "2024-10-14",
+        "Payment Date": "2024-10-03",
+        "Circular Number": "C06097-2024"
+    },
+    {
+        "Company Name": "Century Properties Group, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP 0.015989",
+        "Ex-Dividend Date": "2024-09-27",
+        "Record Date": "2024-10-14",
+        "Payment Date": "2024-09-30",
+        "Circular Number": "C04219-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA1",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P18.9625",
+        "Ex-Dividend Date": "2024-10-01",
+        "Record Date": "2024-10-12",
+        "Payment Date": "2024-10-02",
+        "Circular Number": "C03987-2024"
+    },
+    {
+        "Company Name": "Cebu Landmasters, Inc.",
+        "Type of Security": "CLIA2",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P20.625",
+        "Ex-Dividend Date": "2024-10-01",
+        "Record Date": "2024-10-12",
+        "Payment Date": "2024-10-02",
+        "Circular Number": "C03984-2024"
+    },
+    {
+        "Company Name": "Victorias Milling Company, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Stock",
+        "Dividend Rate": "100%",
+        "Ex-Dividend Date": "2024-09-16",
+        "Record Date": "2024-10-11",
+        "Payment Date": "2024-09-17",
+        "Circular Number": "C07281-2024"
+    },
+    {
+        "Company Name": "Converge Information and Communications Technology Solutions, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PHP0.1800",
+        "Ex-Dividend Date": "2024-09-23",
+        "Record Date": "2024-10-10",
+        "Payment Date": "2024-09-24",
+        "Circular Number": "C05973-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4C",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.71525",
+        "Ex-Dividend Date": "2024-09-12",
+        "Record Date": "2024-10-07",
+        "Payment Date": "2024-09-13",
+        "Circular Number": "C05208-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.99300",
+        "Ex-Dividend Date": "2024-09-12",
+        "Record Date": "2024-10-07",
+        "Payment Date": "2024-09-13",
+        "Circular Number": "C05207-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF4A",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P16.76975",
+        "Ex-Dividend Date": "2024-09-12",
+        "Record Date": "2024-10-07",
+        "Payment Date": "2024-09-13",
+        "Circular Number": "C05206-2024"
+    },
+    {
+        "Company Name": "Citicore Energy REIT Corp.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "PhP0.049",
+        "Ex-Dividend Date": "2024-09-09",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-10",
+        "Circular Number": "C05359-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2O",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.611300/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05316-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2N",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5649875/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05315-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2M",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.5703125/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05314-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2L",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.48396875/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05313-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2K",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.84375/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05312-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2J",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.890625/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05311-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2I",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.18790625/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05310-2024"
+    },
+    {
+        "Company Name": "San Miguel Corporation",
+        "Type of Security": "SMC2F",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P1.27635/share",
+        "Ex-Dividend Date": "2024-09-19",
+        "Record Date": "2024-10-04",
+        "Payment Date": "2024-09-20",
+        "Circular Number": "C05309-2024"
+    },
+    {
+        "Company Name": "VistaREIT, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.04523",
+        "Ex-Dividend Date": "2024-09-11",
+        "Record Date": "2024-10-03",
+        "Payment Date": "2024-09-12",
+        "Circular Number": "C05509-2024"
+    },
+    {
+        "Company Name": "BDO Unibank, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php1.00 per share",
+        "Ex-Dividend Date": "2024-09-16",
+        "Record Date": "2024-09-30",
+        "Payment Date": "2024-09-17",
+        "Circular Number": "C05818-2024"
+    },
+    {
+        "Company Name": "Asia United Bank Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "1.00",
+        "Ex-Dividend Date": "2024-09-05",
+        "Record Date": "2024-09-30",
+        "Payment Date": "2024-09-06",
+        "Circular Number": "C04291-2024"
+    },
+    {
+        "Company Name": "Premiere Island Power REIT Corporation",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "Php 0.0326",
+        "Ex-Dividend Date": "2024-09-12",
+        "Record Date": "2024-09-27",
+        "Payment Date": "2024-09-13",
+        "Circular Number": "C05832-2024"
+    },
+    {
+        "Company Name": "Sun Life Financial Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "CAD 0.81",
+        "Ex-Dividend Date": "2024-08-27",
+        "Record Date": "2024-09-27",
+        "Payment Date": "2024-08-28",
+        "Circular Number": "C05440-2024"
+    },
+    {
+        "Company Name": "Shang Properties, Inc.",
+        "Type of Security": "COMMON",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P0.13440",
+        "Ex-Dividend Date": "2024-09-13",
+        "Record Date": "2024-09-26",
+        "Payment Date": "2024-09-16",
+        "Circular Number": "C05774-2024"
+    },
+    {
+        "Company Name": "Petron Corporation",
+        "Type of Security": "PRF3B",
+        "Type of Dividend": "Cash",
+        "Dividend Rate": "P17.84575",
+        "Ex-Dividend Date": "2024-09-02",
+        "Record Date": "2024-09-25",
+        "Payment Date": "2024-09-03",
+        "Circular Number": "C05205-2024"
+    }
+]

@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV - Susmaryoseph</title>
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <link href="./index.css" type="text/css" rel="stylesheet" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     
@@ -51,21 +53,21 @@
         <!-- Header -->
         <div class="flex items-center justify-between">
             <div class="flex items-center space-x-4">
-                <img src="https://via.placeholder.com/100" alt="Profile Photo" class="w-24 h-24 rounded-full border">
+                <img src="https://media.licdn.com/dms/image/v2/D5603AQHZlP8gmaA7-Q/profile-displayphoto-shrink_200_200/B56ZXCIm1zHoAY-/0/1742718793056?e=1748476800&v=beta&t=Oq3MlqRsvX_WVMKzM5RjuV7M3pxScu1X44qTT0iE9jM" alt="Profile Photo" class="w-24 h-24 rounded-full border">
                 <div>
-                    <h1 class="text-2xl font-bold text-gray-800 dark:text-darktext">Joseph [Last Name]</h1>
-                    <p class="text-gray-600 dark:text-gray-400">Principal Solution Architect | Enterprise Architect</p>
+                    <h1 class="text-2xl font-bold text-gray-800 dark:text-darktext">Joseph Rannie M. Buluran</h1>
+                    <p class="text-gray-600 dark:text-gray-400">Domain Architecture Lead | Enterprise Architecture</p>
                     <p class="text-gray-500 dark:text-gray-400">Manila, Philippines</p>
                 </div>
             </div>
             <div>
-                <button onclick="toggleDarkMode()" class="bg-gray-800 dark:bg-gray-300 text-white dark:text-gray-900 px-4 py-2 rounded-lg shadow-md hover:scale-105 transition-all">
+                <button onclick="toggleDarkMode()" class="noprint bg-gray-800 dark:bg-gray-300 text-white dark:text-gray-900 px-4 py-2 rounded-lg shadow-md hover:scale-105 transition-all">
                     🌙 Dark Mode
                 </button>
-                <button onclick="printCV()" class="bg-blue-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
+                <button onclick="printCV()" class="noprint bg-blue-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
                     🖨️ Print
                 </button>
-                <button onclick="downloadPDF()" class="bg-green-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
+                <button onclick="downloadPDF()" class="noprint bg-green-500 text-white px-4 py-2 rounded-lg shadow-md ml-2 hover:scale-105 transition-all">
                     📥 Download PDF
                 </button>
             </div>
@@ -119,15 +121,28 @@
                 <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Developer Experience</span>
             </div>
         </div>
+        <!-- Industries -->
+        <hr class="my-4 border-gray-300 dark:border-gray-600">
+        <div>
+            <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Industries</h2>
+            <div class="flex flex-wrap gap-2 mt-2">
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Insurance</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Banking and Finance</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Consulting</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Telecommunications</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Aviation</span>
+                <span class="bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 px-3 py-1 rounded-full text-sm">Networks</span>
+            </div>
+        </div>
 
         <hr class="my-4 border-gray-300 dark:border-gray-600">
 
         <!-- Contact -->
         <div>
             <h2 class="text-xl font-semibold text-gray-800 dark:text-darktext">Contact</h2>
-            <p class="text-gray-600 dark:text-gray-400 mt-2"><strong>Email:</strong> youremail@example.com</p>
+            <p class="text-gray-600 dark:text-gray-400 mt-2"><strong>Email:</strong> <a href="mailto: jobs@josephbuluran.com" class="text-blue-500 dark:text-blue-400">jobs@josephbuluran.com</a></p>
             <p class="text-gray-600 dark:text-gray-400"><strong>Website:</strong> <a href="https://www.susmaryoseph.com" class="text-blue-500 dark:text-blue-400">www.susmaryoseph.com</a></p>
-            <p class="text-gray-600 dark:text-gray-400"><strong>LinkedIn:</strong> <a href="#" class="text-blue-500 dark:text-blue-400">linkedin.com/in/yourprofile</a></p>
+            <p class="text-gray-600 dark:text-gray-400"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bluestella/" class="text-blue-500 dark:text-blue-400">https://www.linkedin.com/in/bluestella/</a></p>
         </div>
     </div>
 
